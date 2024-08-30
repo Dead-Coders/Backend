@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
